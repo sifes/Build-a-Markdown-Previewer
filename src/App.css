@@ -1,0 +1,28 @@
+
+body {
+    background-color: rgb(122, 43, 43);
+    width: 100%;
+}
+.container {
+    max-width: 900px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-25%, -50%);
+   
+}
+
+.editor {
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.preview {
+    color: rgb(210, 206, 198);
+    width: 400px;
+   
+}
+.preview img {
+    width: 300px;
+}
